@@ -24,7 +24,7 @@ Each experiment follows the full stack: ideal circuit → noise model
 
 Simulation of quantum interference, phase control, and which-path detection.
 
-→ \[mzi/](mzi/)
+→ \[MZI/](MZI/)
 
 
 
